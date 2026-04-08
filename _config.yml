@@ -21,10 +21,10 @@ author: Tzu-Yao Chiu
 
 navbar-links:
   About Me: "aboutme"
-  Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
+  Publication: 
+    - Journal articles: "journal"
+    - Conference presentations: 'conference'
+  CV: 'CV'
 
 ################
 # --- Logo --- #
@@ -51,11 +51,12 @@ round-avatar: true
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
   email: "chiu.315@osu.edu"
-  rss: true  # remove this line if you don't want to show an RSS link at the bottom
-  #facebook: deanattali
-  github: tzu-yaochiu
-  twitter: TzuYao3
+  google-scholar: https://scholar.google.com/citations?user=gokbtUoAAAAJ&hl=en
   bluesky: tychiu.bsky.social
+  twitter: TzuYao3
+  ORCID: 0000-0002-1820-2829
+  github: tzu-yaochiu
+# facebook: deanattali
 #  patreon: DeanAttali
 #  youtube: "@daattali"
 #  whatsapp: 15551212
@@ -74,9 +75,6 @@ social-network-links:
 #  telegram: yourname
 #  calendly: yourname
 #  mastodon: instance.url/@username
-#  bluesky: yourname
-#  ORCID: your ORCID ID
-#  google-scholar: your google scholar
 #  discord: "invite_code" or "users/userid" or "invite/invite_code"
 #  kaggle: yourname
 #  hackerrank: yourname
