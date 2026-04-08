@@ -17,7 +17,9 @@ Browse journal publications and conference presentations.
 **[CV](CV)**  
 View or download my current curriculum vitae.
 
-<img 
-  src="{{ '/assets/img/lab_photo.jpg' | relative_url }}" 
-  alt="Lab photo" 
-  style="max-width: 100%; height: auto; border-radius: 8px;">
+![Lab photo](/assets/img/lab_photo.jpg)
+
+#<img 
+#  src="{{ '/assets/img/lab_photo.jpg' | relative_url }}" 
+#  alt="Lab photo" 
+#  style="max-width: 100%; height: auto; border-radius: 8px;">
