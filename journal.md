@@ -9,6 +9,7 @@ You can find the full list of publications on [my google scholar page](https://s
 **Chiu T-.Y.** & Golomb J. D. (in press) Top-down motivation both decreases and increases feature interference following a saccade. *Psychonomic Bulletin & Review*
 
 **Chiu, T-. Y.**, Jaen, I., & Golomb, J. D. (2025). Spatiotemporal predictability of saccades modulates postsaccadic feature interference. *Journal of vision, 25*(14), 1. https://doi.org/10.1167/jov.25.14.1
+
 Choi, Y. M., **Chiu, T-.Y.**, Ferreira, J., & Golomb, J. D. (2025). Maintaining visual stability in naturalistic scenes: The roles of trans-saccadic memory and default assumptions. *Cognition, 262*, 106165. https://doi.org/10.1016/j.cognition.2025.106165
 
 **Chiu, T-.Y.** & Golomb, J. D. (2025). The influence of saccade target status on the reference frame of object-location binding. *Journal of experimental psychology. General, 154*(5), 1183–1200. https://doi.org/10.1037/xge0001718
