@@ -8,13 +8,13 @@ subtitle: Psychology & Neuroscience
 My name is Tzu-Yao Chiu. I’m a 4th year PhD student at The Ohio State University working with [Dr. Julie D. Golomb](https://psychology.osu.edu/people/golomb.9). My research focuses on eye movements, more specifically the cognitive and neural mechanisms supporting our real-life perceptual experience. My work combines behavioral psychophysics, electroencephalogram 
 (EEG), functional magnetic resonance imaging (fMRI), and cognitive modeling.
 
-#### [ABOUT ME](aboutme)
+**[ABOUT ME](aboutme)**
 Learn more about my research interests, training, and experience.
 
-#### [PUBLICATIONS](journal)
+**[PUBLICATIONS](journal)**
 Browse journal publications and conference presentations. 
 
-#### [CV](CV)
+**[CV](CV)**
 View or download my current curriculum vitae.
 
 <img 
