@@ -6,7 +6,7 @@ title: Journal articles
 You can find the full list of publications on [my google scholar page](https://scholar.google.com/citations?user=gokbtUoAAAAJ&hl=en). 
 
 ### Peer-reviewed publications: 
-**Chiu T-.Y.** & Golomb J. D. (in press) Top-down motivation both decreases and increases feature interference following a saccade. *Psychonomic Bulletin & Review*
+**Chiu T-.Y.** & Golomb J. D. (in press) Top-down motivation both decreases and increases feature interference following a saccade. *Psychonomic Bulletin & Review, 33*, 142. https://doi.org/10.3758/s13423-026-02907-6
 
 **Chiu, T-. Y.**, Jaen, I., & Golomb, J. D. (2025). Spatiotemporal predictability of saccades modulates postsaccadic feature interference. *Journal of vision, 25*(14), 1. https://doi.org/10.1167/jov.25.14.1
 
